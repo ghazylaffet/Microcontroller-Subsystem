@@ -1,0 +1,32 @@
+# Simulation files
+*.wlf
+*.vcd
+*.ghw
+*.fst
+*.vst
+
+# ModelSim / Questa
+work/
+transcript
+modelsim.ini
+*.mpf
+*.mti
+
+# Vivado
+.xpr
+*.jou
+*.log
+*.str
+.cache/
+.hw/
+ip_user_files/
+.sim/
+.srcs/
+.gen/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
