@@ -63,20 +63,6 @@ Main control signals:
                     └─────────────────────┘
 ```
 
-## Project Structure
-
-```text
-VHDL-Microcontroller-Subsystem/
-├── src/
-│   ├── RI.vhd
-│   ├── sequenceur.vhd
-│   └── structurelle.vhd
-├── testbench/
-├── simulation/
-├── README.md
-└── .gitignore
-```
-
 ## Tools
 
 The project can be simulated with a VHDL-compatible simulator such as:
